@@ -46,7 +46,7 @@ Families frequently struggle to find trustworthy construction workers, exposing 
 - **Messaging System**:
   - Facilitate communication between clients, workers, and admins.
 - **Chatbot**:
-  - Integrated with Lama 3.3 API, or other open source model, which leverages natural language processing to provide instant and context-aware assistance, enhancing the chatbot's ability to respond to user inquiries effectively and accurately.
+  - Integrated with Lama 3.3 or Deepseek R1 API, or other open source model, which leverages natural language processing to provide instant and context-aware assistance, enhancing the chatbot's ability to respond to user inquiries effectively and accurately.
   - Trainable with platform policies, prices, and services.
 - **Email Automation**:
   - Password reset, verification, booking confirmations, and downloadable PDFs.
